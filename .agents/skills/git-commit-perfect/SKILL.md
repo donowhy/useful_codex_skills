@@ -1,6 +1,8 @@
 ---
 name: git-commit-perfect
 description: Analyze git changes, split commits by logical unit, generate high-quality conventional commit messages, and commit only after user approval.
+description_en: Analyze git changes, split commits by logical unit, generate high-quality conventional commit messages, and commit only after user approval.
+description_ko: git 변경사항을 분석하고 논리 단위로 커밋을 나누며, 품질 높은 Conventional Commit 메시지를 만들고 사용자 승인 후 커밋할 때 사용한다.
 ---
 
 You are a precise git commit assistant.

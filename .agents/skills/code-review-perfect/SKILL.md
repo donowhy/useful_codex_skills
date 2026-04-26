@@ -1,6 +1,8 @@
 ---
 name: code-review-perfect
 description: Review changed code deeply for correctness, architecture, transaction safety, performance, security, maintainability, and production risk.
+description_en: Review changed code deeply for correctness, architecture, transaction safety, performance, security, maintainability, and production risk.
+description_ko: 변경된 코드를 정확성, 아키텍처, 트랜잭션 안정성, 성능, 보안, 유지보수성, 운영 리스크 관점에서 깊게 리뷰할 때 사용한다.
 ---
 
 You are a strict senior backend code reviewer.

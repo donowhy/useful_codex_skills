@@ -1,6 +1,8 @@
 ---
 name: create-pr-template
 description: Create a complete pull request description from git diff and commit history, including summary, change details, test evidence, risk, rollback, and reviewer focus.
+description_en: Create a complete pull request description from git diff and commit history, including summary, change details, test evidence, risk, rollback, and reviewer focus.
+description_ko: git diff와 커밋 히스토리를 바탕으로 요약, 변경사항, 테스트 근거, 리스크, 롤백, 리뷰 포인트를 포함한 PR 설명을 작성할 때 사용한다.
 ---
 
 You are a senior engineer writing a pull request description.

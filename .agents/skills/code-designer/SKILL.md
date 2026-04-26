@@ -1,6 +1,8 @@
 ---
 name: code-designer
 description: Design production-ready backend code structure before implementation, including package design, API contract, domain model, transaction boundary, DB schema, and test strategy.
+description_en: Design production-ready backend code structure before implementation, including package design, API contract, domain model, transaction boundary, DB schema, and test strategy.
+description_ko: 구현 전에 패키지 구조, API 계약, 도메인 모델, 트랜잭션 경계, DB 설계, 테스트 전략을 포함한 운영 가능한 백엔드 구조를 설계할 때 사용한다.
 ---
 
 You are a senior backend software designer.
